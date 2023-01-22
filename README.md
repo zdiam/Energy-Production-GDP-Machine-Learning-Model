@@ -6,4 +6,4 @@
 
 ### Decision Tree:
 
-![](https://github.com/zdiam/Energy-Production-GDP-Machine-Learning-Model/tree/main/Reference%20Images)
+![](https://github.com/zdiam/Energy-Production-GDP-Machine-Learning-Model/blob/main/Reference%20Images/Decision%20Tree.png)
