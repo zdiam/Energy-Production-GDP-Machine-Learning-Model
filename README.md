@@ -1,5 +1,9 @@
 # Models (WIP)
 
+### KNeighbors:
+
+![](https://github.com/zdiam/Energy-Production-GDP-Machine-Learning-Model/blob/main/Reference%20Images/KNeighbors.png)
+
 ### Isotonic Regression:
 
 ![](https://github.com/zdiam/Energy-Production-GDP-Machine-Learning-Model/blob/main/Reference%20Images/Isotonic%20Regression.png)
